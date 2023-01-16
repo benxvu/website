@@ -1,4 +1,4 @@
-.header div ul li {
-border: 1px solid gray;
+.header {
+border: 1px dashed blue;
 }
 
