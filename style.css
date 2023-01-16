@@ -1,0 +1,14 @@
+.header {
+    display: block;
+    color: var(--textcolor);
+    text-align: center;
+    font-family: 'Comic Sans MS', 'Comic Sans'; 
+    background-color: var(--sectioncolor);
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 70px;
+    display: right;
+}
