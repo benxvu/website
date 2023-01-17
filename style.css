@@ -33,6 +33,12 @@ nav ul ul {
   display: block;
 }
 
+nav li a {
+  display: block;
+  padding: 0.25em 0 0.25em 0.5em;
+  text-decoration: none;
+}
+
 h1, h2 {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
