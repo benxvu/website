@@ -47,6 +47,12 @@ h1, h2 {
 p {
   color: black;
 }
+
+.GPU h1 {
+  text-align: center;
+  text-family: "Times New Roman", Times, serif;
+}
+
 body {
   background-color: rgba(201, 76, 76, 0.3);
 }
