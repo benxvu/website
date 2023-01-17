@@ -19,6 +19,13 @@ nav ul {
   border: 1px solid;
 }
 
+nav li {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  border-bottom: 1px solid #CCC;
+}
+
 h1, h2 {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
