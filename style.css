@@ -11,6 +11,9 @@ nav {
   background: #FDD;
 }
 
+a:link {
+  background-color: #8744F7;
+
 nav ul {
   margin: 0;
   padding: 0;
