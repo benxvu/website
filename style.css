@@ -60,5 +60,6 @@ body {
 }
 
 .newspaper1 {
-  columns-fill: balance;
+  column-fill: balance;
+  column-rule: 4px single #ff00ff;
 }
