@@ -62,3 +62,7 @@ p {
 body {
   background-color: rgba(201, 76, 76, 0.3);
 }
+
+.newspaper1 {
+  columns: 100px 3;
+}
