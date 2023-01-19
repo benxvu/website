@@ -47,6 +47,7 @@ h1, h2 {
 p {
   color: black;
   font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
 }
 
 .GPU h1 {
