@@ -58,8 +58,3 @@ p {
 body {
   background-color: rgba(201, 76, 76, 0.3);
 }
-
-.newspaper1 {
-  column-fill: balance;
-  column-rule: 4px single #ff00ff;
-}
